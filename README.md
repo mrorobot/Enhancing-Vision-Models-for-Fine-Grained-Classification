@@ -7,17 +7,18 @@ This project aims to enhance vision models for fine-grained classification tasks
 - [Datasets](#datasets)
 - [Models](#models)
 - [Installation](#installation)
-
+- 
 ## Project Overview
 This project explores the use of advanced vision models to improve fine-grained classification. The models employed include EfficientNet, MobileNet, Vision Transformer, and Vision Transformer with Rotary Embeddings. The project is divided into three parts:
 
 1. **Part 1: Dog Vision Dataset**
 2. **Part 2: Food Vision Dataset**
 3. **Part 3: Fashion MNIST Dataset**
-
+4: **Upload and Predict**
+- A ready framework to upload a picture and get predictions is provided in the to_run.py file.
 ## Datasets
-- **Dog Vision Dataset:** A dataset of images of different dog breeds.
-- **Food Vision Dataset:** A dataset of images of various food items.
+- **Dog Vision Dataset:** A dataset of images of different dog breeds sourced from Kaggle.
+- **Food Vision Dataset:** A dataset of images of various food items sourced from Kaggle's Food 101 dataset.
 - **Fashion MNIST Dataset:** A dataset of images of clothing items.
 
 ## Models
@@ -33,3 +34,4 @@ Clone the repository and install the required dependencies:
 git clone https://github.com/yourusername/enhancing-vision-models.git
 cd enhancing-vision-models
 pip install -r requirements.txt
+

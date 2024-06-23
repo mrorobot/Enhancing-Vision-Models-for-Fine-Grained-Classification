@@ -7,10 +7,6 @@ This project aims to enhance vision models for fine-grained classification tasks
 - [Datasets](#datasets)
 - [Models](#models)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 This project explores the use of advanced vision models to improve fine-grained classification. The models employed include EfficientNet, MobileNet, Vision Transformer, and Vision Transformer with Rotary Embeddings. The project is divided into three parts:
